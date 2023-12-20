@@ -1,6 +1,5 @@
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const { plugins } = require('../../container/config/webpack.common');
 
 module.exports = {
     module: {
